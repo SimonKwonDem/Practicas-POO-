@@ -24,8 +24,43 @@ namespace Ejercicios.Semana4
 
         public Persona()
         {
-
+            Console.WriteLine("Constructor sin parámetros");
+            nombre = "";
+            dni = 0;
+            edad = 0;
         }
+        public Persona(string nombre)
+        {
+            Console.WriteLine("Constructor con 1 parámetro");
+            this.nombre = nombre;
+        }
+        public Persona(string nombre, int dni, int edad)
+        {
+            Console.WriteLine("Constructor que recibe 3 parámetros");
+            this.nombre = nombre;
+            this.dni = dni;
+            this.edad = edad;
+        }
+
+        public void MostrarDatos()
+        {
+            Console.WriteLine($"Nombre:{this.nombre}, dni: {this.dni}, edad: {this.edad} ");
+        }
+
+        public void SetEdad(int newEdad)
+        {
+            if (newEdad > 0)
+            {
+                this.edad = newEdad;
+            }
+            else Console.WriteLine("La edad no puede ser cero o negativa");
+        }
+        public int GetEdad()
+        {
+            return this.edad;
+        }
+
+
 
     }
 }
