@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios.Semana4", "Ejerc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios.Semana5", "Ejercicios.Semana5", "{B1C980C0-938A-41F5-A563-6C7E662CF59B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primero", "Primero\Primero.csproj", "{D30696B2-654E-44AB-87A5-39B62850AED3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermercadoSemana5", "Primero\SupermercadoSemana5.csproj", "{D30696B2-654E-44AB-87A5-39B62850AED3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
