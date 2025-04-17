@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Figuras.Semana5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
