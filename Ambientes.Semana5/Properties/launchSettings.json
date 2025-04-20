@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ambientes.Semana5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
