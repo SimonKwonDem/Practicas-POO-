@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Persona.Semana5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
