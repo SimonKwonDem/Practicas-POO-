@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ejercicio.TipoExamen": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

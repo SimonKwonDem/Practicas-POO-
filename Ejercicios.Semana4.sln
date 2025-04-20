@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ambientes.Semana5", "Ambien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona.Semana5", "Persona.Semana5\Persona.Semana5.csproj", "{8530B158-7AD3-4160-9164-0D452DD66DDD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EJercicio.TipoExamen", "EJercicio.TipoExamen", "{2ADD12DF-CA02-43B0-8A4F-0405F49E94C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio.TipoExamen", "Ejercicio.TipoExamen\Ejercicio.TipoExamen.csproj", "{8CF68699-3284-4A60-914B-B8223DE447CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,10 @@ Global
 		{8530B158-7AD3-4160-9164-0D452DD66DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8530B158-7AD3-4160-9164-0D452DD66DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8530B158-7AD3-4160-9164-0D452DD66DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF68699-3284-4A60-914B-B8223DE447CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF68699-3284-4A60-914B-B8223DE447CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF68699-3284-4A60-914B-B8223DE447CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF68699-3284-4A60-914B-B8223DE447CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,5 +72,6 @@ Global
 		{754ED014-6DC6-49A9-8A39-E345E03CDC59} = {B1C980C0-938A-41F5-A563-6C7E662CF59B}
 		{41DAF504-A027-41A6-8E44-42FD37232B6C} = {B1C980C0-938A-41F5-A563-6C7E662CF59B}
 		{8530B158-7AD3-4160-9164-0D452DD66DDD} = {B1C980C0-938A-41F5-A563-6C7E662CF59B}
+		{8CF68699-3284-4A60-914B-B8223DE447CD} = {2ADD12DF-CA02-43B0-8A4F-0405F49E94C0}
 	EndGlobalSection
 EndGlobal
